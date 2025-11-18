@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A simple script that prints random stanzas from "Mad Girl's Love Song" by Sylvia Plath.
+A sample script that prints random stanzas from "Mad Girl's Love Song" by Sylvia Plath.
 """
 
 import random
