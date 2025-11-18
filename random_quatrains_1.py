@@ -11,7 +11,7 @@ stanzas = [
         "I shut my eyes and all the world drops dead;",
         "I lift my lids and all is born again.",
         "(I think I made you up inside my head.)",
-        ""
+    
     ],
     [
         "The stars go waltzing out in blue and red,",
