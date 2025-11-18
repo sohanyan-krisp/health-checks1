@@ -9,7 +9,7 @@ import random
 stanzas = [
     [
         "I shut my eye and all the world drop dead;",
-        "I lift my lids and all is born again.",
+        "I lift my lids and all is born.",
         "(I think I made you up inside my head.)",
     
     ],
