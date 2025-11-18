@@ -8,7 +8,7 @@ import random
 # stanzas from "Mad Girl's Love Song"
 stanzas = [
     [
-        "I shut my eye and all the world drop dead;",
+        "I shut my eye and all the world drops;",
         "I lift my lids and all is born again again.",
         "(I think I made you up inside my head.)",
     
